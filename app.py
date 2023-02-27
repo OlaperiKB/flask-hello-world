@@ -6,5 +6,5 @@ def hello_world():
     return 'Hello, World!'
 
 @app.route('/redeploy')
-def hello_world():
+def redeploy():
     return 'Just testing an update'
